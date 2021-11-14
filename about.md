@@ -8,5 +8,3 @@ I am studying Logic and Computation at the Technical University of Vienna. I mov
 I'll probably use this mostly like Instagram? Just a picture and a few paragraphs when I post? But no one will see and even if someone does I won't really know.
 
 The pictures will be bad *Mike Yeung* because my phone doesn't have a very good camera and I don't care that much but hopefully they get the idea across.
-
-Vienna is cool!
