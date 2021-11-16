@@ -2,9 +2,8 @@
 layout: post
 title: About
 ---
+I moved from Boston to Vienna to study Logic and Computation at TU Wien but also to deal with my covid cabin fever.
 
-I am studying Logic and Computation at the Technical University of Vienna. I moved here from Boston in September and I decided to start a blog because I don't really use social media because people might see what I post there. This is a nice place to post things without anyone getting a notification that I think what I'm doing is important to post about.
-
-I'll probably use this mostly like Instagram? Just a picture and a few paragraphs when I post? But no one will see and even if someone does I won't know.
+I'll probably use this blog mostly like Instagram ie a post is some pictures and a paragraph or two. But crucially, an Instagram no one will ever see and that has no comments. I can't imagine someone I don't know in real life will ever read this so if you want to comment you can text me.
 
 The pictures will be bad *Mike* because my phone doesn't have a very good camera and I don't care that much but hopefully they get the idea across.
