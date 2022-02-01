@@ -20,5 +20,3 @@ sass:
 
 plugins:
   - jekyll-feed
-#plugins:
-#        - jekyll-feed
