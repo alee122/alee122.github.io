@@ -6,10 +6,10 @@ description: > # description of the site (multiple lines allowed)
 
 favicon: "favicon.ico" # name+extension of favicon (which must be put on the root folder)
 
-#remote_theme: riggraz/no-style-please
-#theme: no-style-please
-theme: minima
-
+remote_theme: riggraz/no-style-please
+theme: no-style-please
+#theme: minima
+#
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
